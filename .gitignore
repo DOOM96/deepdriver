@@ -5,3 +5,13 @@ env/
 rss/
 /.vscode
 /images
+.*
+carlaexamples/
+catkin_ws/
+gft_carla_environment/
+images/
+output/
+pybonacci/
+carla-agent-behav-dataset.ipynb
+carla-agent-cnn.ipynb
+core
